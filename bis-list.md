@@ -1,7 +1,7 @@
 ## Protection Paladin
 |  Slot           | Name                                                                                   | Source                     |
 |-----------------|--------------------------------------------------------------------------------------- |----------------------------|
-| Head            | [Sanctified Lightsworn Faceguard](https://wotlk.evowow.com/?item=51266)                | Vendor                     |
+| Head            | [Broken Ram Skull Helm](https://wotlk.evowow.com/?item=50640)                          | Lady Deathwhisper 25HC     |
 | Neck            | [Bile-Encrusted Medallion](https://wotlk.evowow.com/?item=50682)                       | Rotface 25HC               |
 | Shoulders       | [Sanctified Lightsworn Shoulderguards](https://wotlk.evowow.com/?item=51269)           | Vendor                     |
 | Back            | [Royal Crimson Cloak](https://wotlk.evowow.com/?item=50718)                            | Blood Prince Council 25HC  |
