@@ -21,5 +21,4 @@
 
 ![Alt text](https://github.com/Mabeyn/bis-list/blob/master/Capture.PNG)
 
-Hit: 263
-Expertise: 26
+Hit: 263 Expertise: 26
