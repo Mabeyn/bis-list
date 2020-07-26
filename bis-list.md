@@ -18,3 +18,8 @@
 | Main Hand       | [Mithrios, Bronzebeard's Legacy](https://wotlk.evowow.com/?item=50738)                 | Lich King 25HC             |
 | Off Hand        | [Icecrown Glacial Wall](https://wotlk.evowow.com/?item=50729)                          | Blood Queen Lana'thel 25HC |
 | Libram          | [Libram of the Eternal Tower](https://wotlk.evowow.com/?item=50461)                    | Vendor                     |
+
+![Alt text](https://github.com/Mabeyn/bis-list/blob/master/Capture.PNG)
+
+Hit: 263
+Expertise: 26
