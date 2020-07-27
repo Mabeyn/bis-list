@@ -21,7 +21,7 @@
 
 [Talents](https://wotlkdb.com/?talent#sZV0tAduMusIufdxfMzbM:pjkzcm)
 
-Hit: 263 Expertise: 26
+Hit: 263, Expertise: 26
 
 Gems:
 
