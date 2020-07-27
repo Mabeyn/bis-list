@@ -22,3 +22,13 @@
 ![Alt text](https://github.com/Mabeyn/bis-list/blob/master/Capture.PNG)
 
 Hit: 263 Expertise: 26
+
+Gems:
+
+[Austere Earthsiege Diamond](https://wotlk.evowow.com/?item=41380) x1
+
+[Guardian's Dreadstone](https://wotlk.evowow.com/?item=40141) x1
+
+[Vivid Eye of Zul](https://wotlk.evowow.com/?item=40166) x1
+
+[Solid Majestic Zircon](https://wotlk.evowow.com/?item=40119) others
