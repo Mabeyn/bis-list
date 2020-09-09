@@ -19,7 +19,7 @@
 | Off Hand        | [Icecrown Glacial Wall](https://wotlk.evowow.com/?item=50729)                          | Blood Queen Lana'thel 25HC |
 | Libram          | [Libram of the Eternal Tower](https://wotlk.evowow.com/?item=50461)                    | Vendor                     |
 
-[Talents](https://wotlkdb.com/?talent#sZV0tAduMusIufdxfMzbM:pjkzcm)
+[Talents and Glyphs](https://wotlkdb.com/?talent#sZV0tAduMusIufdxfMzbM:pjkzcm)
 
 Hit: 263, Expertise: 26
 
